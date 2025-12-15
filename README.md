@@ -2,7 +2,9 @@
 
 A DOS-style turn-based naval strategy game built with Python and Pyglet.
 
-![Screenshot](ships.png)
+![Title Screen](title_screen.png)
+
+![Gameplay](ships.png)
 
 ## Features
 
