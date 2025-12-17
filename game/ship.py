@@ -53,7 +53,7 @@ class Ship:
         # Colors (DOS-style)
         self.colors = {
             'player': (0, 100, 255),      # Blue
-            'enemy': (255, 0, 200)        # Magenta
+            'enemy': (200, 50, 50)         # Red
         }
         self.cannon_color = (20, 20, 20)  # Black cannons
     

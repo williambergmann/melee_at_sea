@@ -349,7 +349,7 @@ class TitleScreen:
         ship_shapes = self._draw_sailing_ship(
             batch,
             self.screen_width // 2, 
-            350 + bob_offset,  # Sitting on waves with gentle bob
+            500 + bob_offset,  # Lowered to sit on waves properly
             scale=4
         )
         render_objects.extend(ship_shapes)
